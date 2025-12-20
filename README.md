@@ -28,7 +28,7 @@ I build **wildly over-engineered** software that makes devices and services talk
 - 🛰️ Current fascination: edge devices, local-first services, and self-hosted ecosystems.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrewdkennedy1&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="trophy case" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="readme joke" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
@@ -81,7 +81,7 @@ I build **wildly over-engineered** software that makes devices and services talk
 ## 💥 Spectacularly Overdone Extras
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andrewdkennedy1/andrewdkennedy1/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%" />
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="coding cat" width="60%" />
 </p>
 
 <p align="center">
