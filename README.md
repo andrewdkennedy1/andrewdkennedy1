@@ -13,6 +13,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andrewdkennedy1&style=for-the-badge&color=ff6ec7" alt="profile views" />
+  <a href="https://leetcode.com/u/andrewdkennedy1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
   <img src="https://img.shields.io/badge/AI%20SL0P-APPROVED-00ffd5?style=for-the-badge" alt="ai slop badge" />
   <img src="https://img.shields.io/badge/STATUS-HYPERDRIVE%20ONLINE-7df9ff?style=for-the-badge" alt="status badge" />
 </p>
@@ -38,6 +41,12 @@ I build **wildly over-engineered** software that makes devices and services talk
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrewdkennedy1&show_icons=true&theme=radical&hide_border=true" alt="github stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewdkennedy1&theme=radical&hide_border=true" alt="streak stats" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/andrewdkennedy1/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/andrewdkennedy1?theme=radical" alt="LeetCode Stats" width="95%" />
+  </a>
 </p>
 
 <p align="center">
