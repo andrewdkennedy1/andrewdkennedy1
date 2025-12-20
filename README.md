@@ -46,6 +46,34 @@ I build **wildly over-engineered** software that makes devices and services talk
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
 
+## 🧨 Live API Chaos
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrewdkennedy1&theme=radical" alt="profile details" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrewdkennedy1&theme=radical" alt="most commit language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrewdkennedy1&theme=radical&utcOffset=-5" alt="productive time" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewdkennedy1&layout=compact&theme=radical&hide_border=true" alt="top langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewdkennedy1&repo=andrewdkennedy1&theme=radical&hide_border=true" alt="pinned repo" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ff6ec7/andrewdkennedy1" alt="contribution chart" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://api.dicebear.com/7.x/bottts/svg?seed=hyperdrive" alt="bot avatar" width="120" />
+  <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=slopcore" alt="adventurer avatar" width="120" />
+  <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=yeet" alt="pixel avatar" width="120" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
+
 ## 🧠 Skill Nebula (Shiny Edition)
 
 <p align="center">
@@ -81,7 +109,7 @@ I build **wildly over-engineered** software that makes devices and services talk
 ## 💥 Spectacularly Overdone Extras
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="coding cat" width="60%" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/cat-typing.gif" alt="coding cat" width="60%" />
 </p>
 
 <p align="center">
