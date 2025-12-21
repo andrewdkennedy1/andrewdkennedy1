@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="neon grid" width="65%" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFmZmQ4M2Y3YTI1ZmI1MzY1NWRkMGQyZTFkMDg0Y2E0NDQ4Y2EwMSZjdD1n/26ufdipQqU2lhNA4g/giphy.gif" alt="rocket cat" width="32%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="neural network coding" width="100%" />
 </p>
 
 <p align="center">
@@ -40,7 +39,7 @@ I build **wildly over-engineered** software that makes devices and services talk
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrewdkennedy1&show_icons=true&theme=radical&hide_border=true" alt="github stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewdkennedy1&theme=radical&hide_border=true" alt="streak stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=andrewdkennedy1&theme=radical&hide_border=true" alt="streak stats" width="48%" />
 </p>
 
 <p align="center">
@@ -51,6 +50,10 @@ I build **wildly over-engineered** software that makes devices and services talk
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewdkennedy1&theme=react-dark&hide_border=true" alt="activity graph" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andrewdkennedy1&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="trophy showcase" width="95%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
@@ -118,7 +121,7 @@ I build **wildly over-engineered** software that makes devices and services talk
 ## 💥 Spectacularly Overdone Extras
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/cat-typing.gif" alt="coding cat" width="60%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="epic coding" width="70%" />
 </p>
 
 <p align="center">
