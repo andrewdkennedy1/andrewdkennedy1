@@ -36,17 +36,17 @@ I build **wildly over-engineered** software that makes devices and services talk
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewdkennedy1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="battle stats" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewdkennedy1&theme=react-dark&hide_border=true" alt="activity graph" width="95%" />
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
+
+## 🧠 LeetCode Arena
 
 <p align="center">
   <a href="https://leetcode.com/u/andrewdkennedy1/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/andrewdkennedy1?theme=radical" alt="LeetCode Stats" width="95%" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewdkennedy1&theme=react-dark&hide_border=true" alt="activity graph" width="95%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
