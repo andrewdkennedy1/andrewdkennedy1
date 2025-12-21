@@ -56,7 +56,7 @@ I build **wildly over-engineered** software that makes devices and services talk
 </p>
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/user?username=andrewdkennedy1&theme=retro" alt="3d contribution wall" width="95%" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=andrewdkennedy1&theme=retro" alt="3d contribution wall" width="95%" />
 </p>
 
 <p align="center">
