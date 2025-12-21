@@ -38,8 +38,7 @@ I build **wildly over-engineered** software that makes devices and services talk
 ## 🔥 Hyperdrive Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewdkennedy1&show_icons=true&theme=radical&hide_border=true" alt="github stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewdkennedy1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="battle stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewdkennedy1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="battle stats" width="95%" />
 </p>
 
 <p align="center">
@@ -54,6 +53,14 @@ I build **wildly over-engineered** software that makes devices and services talk
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrewdkennedy1&theme=radical" alt="power overview" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/user?username=andrewdkennedy1&theme=retro" alt="3d contribution wall" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andrewdkennedy1/andrewdkennedy1/output/github-contribution-grid-snake.svg" alt="neon snake" width="95%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
