@@ -39,7 +39,7 @@ I build **wildly over-engineered** software that makes devices and services talk
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrewdkennedy1&show_icons=true&theme=radical&hide_border=true" alt="github stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=andrewdkennedy1&theme=radical&hide_border=true" alt="streak stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewdkennedy1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="battle stats" width="48%" />
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ I build **wildly over-engineered** software that makes devices and services talk
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrewdkennedy1&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="trophy showcase" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrewdkennedy1&theme=radical" alt="power overview" width="95%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
