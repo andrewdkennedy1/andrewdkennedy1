@@ -12,6 +12,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andrewdkennedy1&style=for-the-badge&color=ff6ec7" alt="profile views" />
+  <a href="https://www.linkedin.com/in/andrew-kennedy-2876965b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0b66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://leetcode.com/u/andrewdkennedy1/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
@@ -131,6 +134,7 @@ I build **wildly over-engineered** software that makes devices and services talk
 ### 🤝 Contact Portal
 
 - Discord: @shibe
+- LinkedIn: https://www.linkedin.com/in/andrew-kennedy-2876965b/
 - Collab energy: high
 - Signal to noise: optimized
 
