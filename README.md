@@ -45,7 +45,21 @@
     <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
     <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" /></a>
     <a href="https://tauri.app/"><img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri" /></a>
-    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+    <a href="https://tanstack.com/query/latest"><img src="https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" /></a>
+    <a href="https://formik.org/"><img src="https://img.shields.io/badge/Formik-2C3E50?style=for-the-badge&logo=formik&logoColor=white" alt="Formik" /></a>
+    <a href="https://react-hook-form.com/"><img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white" alt="React Hook Form" /></a>
+    <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></a>
+    <a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" /></a>
+    <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /></a>
+    <br/>
+    <!-- Web Development -->
+    <a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" /></a>
+    <a href="https://rollupjs.org/"><img src="https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white" alt="Rollup" /></a>
+    <a href="https://parceljs.org/"><img src="https://img.shields.io/badge/Parcel-8E5C34?style=for-the-badge&logo=parcel&logoColor=white" alt="Parcel" /></a>
+    <a href="https://prettier.io/"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" /></a>
+    <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /></a>
+    <a href="https://www.shopify.com/"><img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></a>
+    <a href="https://webflow.com/"><img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" /></a>
   </p>
 
   <!-- ⚡ BACKEND & DB -->
@@ -88,6 +102,20 @@
     <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face" /></a>
     <a href="https://langchain.com/"><img src="https://img.shields.io/badge/%F0%9F%A6%9C-LangChain-1C3C3C?style=for-the-badge" alt="LangChain" /></a>
     <a href="https://www.pinecone.io/"><img src="https://img.shields.io/badge/Pinecone-27272E?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" /></a>
+  </p>
+
+  <!-- 🎨 GRAPHIC DESIGN & UI/UX -->
+  <p>
+    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+    <a href="https://www.adobe.com/creativecloud.html"><img src="https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Adobe CC" /></a>
+    <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" /></a>
+    <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" /></a>
+    <a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" /></a>
+    <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" /></a>
+    <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
+    <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
+    <a href="https://www.sketch.com/"><img src="https://img.shields.io/badge/Sketch-FDB300?style=for-the-badge&logo=sketch&logoColor=white" alt="Sketch" /></a>
+    <a href="https://www.framer.com/"><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" /></a>
   </p>
 
   <!-- 🔌 HARDWARE & EMBEDDED -->
