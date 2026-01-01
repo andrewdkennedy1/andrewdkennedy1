@@ -118,6 +118,22 @@
     <a href="https://www.framer.com/"><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" /></a>
   </p>
 
+  <!-- 🎮 GAME DEVELOPMENT -->
+  <p>
+    <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" /></a>
+    <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" /></a>
+    <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" /></a>
+    <a href="https://www.pygame.org/"><img src="https://img.shields.io/badge/Pygame-3C7D22?style=for-the-badge&logo=python&logoColor=white" alt="Pygame" /></a>
+    <a href="https://www.raylib.com/"><img src="https://img.shields.io/badge/Raylib-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black" alt="Raylib" /></a>
+    <a href="https://bevyengine.org/"><img src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=rust&logoColor=white" alt="Bevy" /></a>
+    <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" /></a>
+    <a href="https://babylonjs.com/"><img src="https://img.shields.io/badge/Babylon.js-BB464B?style=for-the-badge&logo=babylon.js&logoColor=white" alt="Babylon.js" /></a>
+    <a href="https://phaser.io/"><img src="https://img.shields.io/badge/Phaser-41006E?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser" /></a>
+    <a href="https://www.opengl.org/"><img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black" alt="OpenGL" /></a>
+    <a href="https://www.vulkan.org/"><img src="https://img.shields.io/badge/Vulkan-E41E2D?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" /></a>
+    <a href="https://www.khronos.org/webgl/"><img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" /></a>
+  </p>
+
   <!-- 🔌 HARDWARE & EMBEDDED -->
   <p>
     <a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" /></a>
