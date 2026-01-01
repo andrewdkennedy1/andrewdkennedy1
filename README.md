@@ -1,141 +1,79 @@
-<!-- AI-EXTRA-POP PROFILE ZONE: loud, shiny, and intentionally over-the-top -->
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff00cc&height=180&section=header&text=Andrew%20%7C%20Ultra%20Builder&fontSize=42&fontAlignY=35&animation=twinkling" alt="header banner" width="100%" />
+  <h1>Andrew Kennedy</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00E7FF&center=true&vCenter=true&width=700&lines=full-stack+wizard;integration+alchemist;self-hosting+overlord;coffee-powered+packet+whisperer;totally-not-ai-slop" alt="typing intro" />
-</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=andrewdkennedy1&style=for-the-badge&color=ff6ec7" alt="Profile Views" />
+    <a href="https://discord.com/users/shibe">
+      <img src="https://img.shields.io/badge/Discord-%40shibe-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://www.linkedin.com/in/andrew-kennedy-2876965b/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0b66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="neural network coding" width="100%" />
-</p>
+  <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andrewdkennedy1&style=for-the-badge&color=ff6ec7" alt="profile views" />
-  <a href="https://www.linkedin.com/in/andrew-kennedy-2876965b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0b66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/andrewdkennedy1/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <img src="https://img.shields.io/badge/AI%20SL0P-APPROVED-00ffd5?style=for-the-badge" alt="ai slop badge" />
-  <img src="https://img.shields.io/badge/STATUS-HYPERDRIVE%20ONLINE-7df9ff?style=for-the-badge" alt="status badge" />
-</p>
+  <p>
+    <!-- Core Stack -->
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+    <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=MinIO&logoColor=white" alt="MinIO" />
+    <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio" />
+    <br/>
+    <!-- Expanded Stack -->
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <br/>
+    <!-- Additional Popular Badges -->
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+    <br/>
+    <!-- Funny / Misc Badges -->
+    <img src="https://img.shields.io/badge/Powered_by-Coffee-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Powered by Coffee" />
+    <img src="https://img.shields.io/badge/Built_with-Love-ff69b4?style=for-the-badge&logo=heart&logoColor=white" alt="Built with Love" />
+    <img src="https://img.shields.io/badge/Works_on-my_machine-ef4444?style=for-the-badge" alt="Works on my machine" />
+    <img src="https://img.shields.io/badge/Bugs-Features-yellow?style=for-the-badge" alt="Bugs are Features" />
+    <img src="https://img.shields.io/badge/Maintained%3F-No-red?style=for-the-badge" alt="Maintained? No" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-Powered-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Vim-Exit_Specialist-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Expert" />
+    <img src="https://img.shields.io/badge/I_use-Arch_btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch btw" />
+    <img src="https://img.shields.io/badge/Copy--Paste-Engineer-blue?style=for-the-badge" alt="Copy-Paste Engineer" />
+    <img src="https://img.shields.io/badge/Magic-Do_not_touch-9cf?style=for-the-badge" alt="Magic" />
+  </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
+  <br/>
 
-## 🌌 The Galactic Origin Story
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewdkennedy1&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+  </p>
 
-I build **wildly over-engineered** software that makes devices and services talk to each other. APIs, automation, tiny tools, and infrastructure glue. Everything is optimized for **clarity, durability, and drama** (this README chooses drama).
+  <br/>
 
-- 🧪 Core vibe: backend wizardry, infrastructure alchemy, and integration sorcery.
-- 🧯 Reliability quests: guardrails, observability, and sane defaults.
-- 🛰️ Current fascination: edge devices, local-first services, and self-hosted ecosystems.
+  <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+  </p>
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="readme joke" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewdkennedy1&theme=react-dark&hide_border=true" alt="activity graph" width="95%" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
-
-## 🧠 LeetCode Arena
-
-<p align="center">
-  <a href="https://leetcode.com/u/andrewdkennedy1/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/andrewdkennedy1?theme=radical" alt="LeetCode Stats" width="95%" />
-  </a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrewdkennedy1&theme=radical" alt="profile details" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrewdkennedy1&theme=radical" alt="power overview" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrewdkennedy1&theme=radical" alt="most commit language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrewdkennedy1&theme=radical&utcOffset=-5" alt="productive time" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewdkennedy1&layout=compact&theme=radical&hide_border=true" alt="top langs" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewdkennedy1&repo=andrewdkennedy1&theme=radical&hide_border=true" alt="pinned repo" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ff6ec7/andrewdkennedy1" alt="contribution chart" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://api.dicebear.com/7.x/bottts/svg?seed=hyperdrive" alt="bot avatar" width="120" />
-  <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=slopcore" alt="adventurer avatar" width="120" />
-  <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=yeet" alt="pixel avatar" width="120" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
-
-## 🧠 Skill Nebula (Shiny Edition)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-00ff99?style=for-the-badge&logo=node.js&logoColor=000000" alt="node badge" />
-  <img src="https://img.shields.io/badge/Rust-ff8c00?style=for-the-badge&logo=rust&logoColor=000000" alt="rust badge" />
-  <img src="https://img.shields.io/badge/PowerShell-6a5acd?style=for-the-badge&logo=powershell&logoColor=ffffff" alt="powershell badge" />
-  <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000000" alt="next badge" />
-  <img src="https://img.shields.io/badge/Cloudflare-fb8500?style=for-the-badge&logo=cloudflare&logoColor=000000" alt="cloudflare badge" />
-  <img src="https://img.shields.io/badge/MinIO-ff2d55?style=for-the-badge&logo=minio&logoColor=ffffff" alt="minio badge" />
-  <img src="https://img.shields.io/badge/Twilio-ff1f1f?style=for-the-badge&logo=twilio&logoColor=ffffff" alt="twilio badge" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="pixel city" width="45%" />
-  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" alt="hologram" width="45%" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
-
-## 🎯 Current Quests (Totally Serious)
-
-- 🛰️ Build a local-first command center for self-hosted services.
-- 🧵 Wire together edge devices into a tiny, reliable mesh.
-- 🧊 Turn boring ops into slick, one-command workflows.
-- 🪄 Make integrations feel like magic (and then write the docs).
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="neon console" width="80%" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" alt="neon divider" width="100%" />
-
-## 💥 Spectacularly Overdone Extras
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="epic coding" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="neon wave" width="60%" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:00c6ff&height=120&section=footer" alt="footer banner" width="100%" />
-
----
-
-### 🤝 Contact Portal
-
-- Discord: @shibe
-- LinkedIn: https://www.linkedin.com/in/andrew-kennedy-2876965b/
-- Collab energy: high
-- Signal to noise: optimized
-
-> This profile is intentionally loud, shiny, and a little ridiculous. You've been warned.
+</div>
