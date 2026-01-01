@@ -62,12 +62,70 @@
     <img src="https://img.shields.io/badge/I_use-Arch_btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch btw" />
     <img src="https://img.shields.io/badge/Copy--Paste-Engineer-blue?style=for-the-badge" alt="Copy-Paste Engineer" />
     <img src="https://img.shields.io/badge/Magic-Do_not_touch-9cf?style=for-the-badge" alt="Magic" />
-  </p>
-
-  <br/>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewdkennedy1&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+    <br/>
+    <!-- More Tech Badges -->
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+    <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+    <br/>
+    <!-- The Hardware/Specific Stack -->
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+    <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+    <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" />
+    <img src="https://img.shields.io/badge/Bunny.net-BA5EEF?style=for-the-badge&logo=bunnydotnet&logoColor=white" alt="Bunny.net" />
+    <br/>
+    <!-- AI, Design & More Tech -->
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Adobe CC" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+    <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0" />
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+    <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
+    <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri" />
+    <br/>
+    <!-- More Humor/Meme Badges -->
+    <img src="https://img.shields.io/badge/Error-404_Not_Found-critical?style=for-the-badge" alt="404" />
+    <img src="https://img.shields.io/badge/Status-Hacking-blueviolet?style=for-the-badge" alt="Hacking" />
+    <img src="https://img.shields.io/badge/Memory_Leaks-Included-orange?style=for-the-badge" alt="Memory Leaks" />
+    <img src="https://img.shields.io/badge/Production-Do_not_deploy-red?style=for-the-badge" alt="Prod" />
+    <img src="https://img.shields.io/badge/Coffee-Overflow-brown?style=for-the-badge" alt="Coffee" />
+    <br/>
+    <!-- Testing, Protocols & Platforms -->
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+    <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+    <img src="https://img.shields.io/badge/tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" />
+    <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+    <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+    <img src="https://img.shields.io/badge/Railway-131313?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+    <img src="https://img.shields.io/badge/Fly.io-24185B?style=for-the-badge&logo=fly.io&logoColor=white" alt="Fly.io" />
+    <br/>
+    <!-- More Humor & Personality -->
+    <img src="https://img.shields.io/badge/Expert-Googler-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Expert Googler" />
+    <img src="https://img.shields.io/badge/Senior-Stack_Overflow_Researcher-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Senior SO Researcher" />
+    <img src="https://img.shields.io/badge/Powered_by-Ramen-F39C12?style=for-the-badge" alt="Ramen" />
+    <img src="https://img.shields.io/badge/Commit-Direct_to_Master-red?style=for-the-badge" alt="Commit to Master" />
+    <img src="https://img.shields.io/badge/Sleep-Optional-blueviolet?style=for-the-badge" alt="Sleep Optional" />
+    <img src="https://img.shields.io/badge/Bugs_squashed-9000%2B-green?style=for-the-badge" alt="Bugs Squashed" />
   </p>
 
   <br/>
